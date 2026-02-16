@@ -65,10 +65,8 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 ---
 
 ## Contact
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-https://github.com/Rosellpc
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/RossTwilight)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)
-https://linkedin.com/in/rosellpc
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rosellpc)
 
-📧 rosell.pc08@gmail.com
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail)](rosell.pc08@gmail.com)
