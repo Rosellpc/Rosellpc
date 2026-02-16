@@ -1,88 +1,74 @@
-# 👨‍💻 Data Scientist | Software & Analytics
+# Rosell Puma
+### Data Scientist · Analytics · Software
 
-## 👋 About Me
-I am a **Data Scientist** with a strong foundation in **data analysis, statistics, and software development**.  
-I specialize in transforming raw data into **actionable insights** that support decision-making and business strategy.
-
-I enjoy working at the intersection of **data, technology, and real-world problems**, building scalable solutions and data-driven systems.
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![Data Science](https://img.shields.io/badge/Data%20Science-333333?style=flat&logo=databricks)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333333?style=flat&logo=scikitlearn)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visualstudiocode)
 
 ---
 
-## 🧠 Core Skills
+## Profile
+Data Scientist with a strong foundation in **data analysis, statistics, and software development**.  
+Focused on turning complex datasets into **clear insights, predictive models, and business value**.
 
-### 📊 Data Science & Analytics
+I enjoy building **clean, reproducible, and scalable data solutions**, combining analytical thinking with engineering principles.
+
+---
+
+## Skills
+
+**Data & Analytics**
 - Exploratory Data Analysis (EDA)
-- Statistical Analysis & Hypothesis Testing
-- Data Cleaning & Feature Engineering
-- Data Visualization & Storytelling
-- Predictive Modeling
+- Statistical Analysis
+- Feature Engineering
+- Data Visualization
 
-### 🤖 Machine Learning
-- Supervised & Unsupervised Learning
-- Regression & Classification Models
+**Machine Learning**
+- Regression & Classification
+- Supervised / Unsupervised Learning
 - Model Evaluation & Optimization
-- Scikit-learn workflows
 
-### 🧮 Programming
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- SQL (queries, joins, aggregations)
-- Basic R (optional)
-- Git & GitHub (version control)
-
-### 🗄️ Data & Tools
-- Jupyter Notebook
-- VS Code
-- Git
-- REST APIs (basic)
-- CSV, JSON, relational databases
+**Programming**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Git & GitHub
 
 ---
 
-## 🛠️ Technologies
+## Tech Stack
 
-| Category | Tools |
-|--------|------|
+| Area | Tools |
+|-----|------|
 | Languages | Python, SQL |
 | Libraries | Pandas, NumPy, Scikit-learn |
 | Visualization | Matplotlib, Seaborn |
+| Tools | Jupyter, VS Code |
 | Version Control | Git, GitHub |
-| IDE | VS Code, Jupyter |
 
 ---
 
-## 📂 Projects
-Some examples of projects I work on:
-
-- 📈 **Sales Data Analysis**  
-  Cleaned and analyzed transactional data to identify trends and improve revenue strategies.
-
-- ☕ **Order Management System (Data-driven)**  
-  Designed a system integrating inventory control and analytics for operational optimization.
-
-- 📊 **Exploratory Data Analysis Dashboard**  
-  Visual storytelling using Python to communicate insights clearly to stakeholders.
-
-*(More projects available in repositories below)*
+## Projects
+- **Sales Data Analysis** — Identified trends and insights from transactional datasets.
+- **Order & Inventory Analytics System** — Data-driven approach for operational optimization.
+- **EDA Dashboards** — Clear storytelling for technical and non-technical audiences.
 
 ---
 
-## 🎯 Professional Goals
-- Build production-ready data pipelines  
-- Apply machine learning to real business problems  
-- Collaborate with cross-functional teams  
-- Continuously improve as a data professional
+## Focus
+- Data-driven decision making  
+- Machine learning in real-world scenarios  
+- Clean code & reproducible analysis  
 
 ---
 
-## 📚 Continuous Learning
-- Advanced Machine Learning
-- Data Engineering fundamentals
-- Cloud platforms (AWS / GCP basics)
-- Software architecture for data products
+## Contact
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
+https://github.com/Rosellpc
 
----
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)
+https://linkedin.com/in/rosellpc
 
-## 📬 Contact
-- 📧 Email: rosell.pc08@gmail.com
-- 💼 GitHub: https://github.com/Rosellpc
-- 🔗 LinkedIn: https://linkedin.com/in/rosellpc
+📧 rosell.pc08@gmail.com
