@@ -57,6 +57,11 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 
 ---
 
+## Actividad reciente
+
+
+---
+
 ## Focus
 - Data-driven decision making  
 - Machine learning in real-world scenarios  
