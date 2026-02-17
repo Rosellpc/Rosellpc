@@ -58,8 +58,9 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 ---
 
 ## Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 
-
+<!--RECENT_ACTIVITY:last_update-->
 ---
 
 ## Focus
