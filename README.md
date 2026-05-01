@@ -59,15 +59,10 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 
 ## Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Rosellpc/DjangoREST](https://github.com/Rosellpc/DjangoREST)<br>
-2. ⬆️ Pushed undefined commit(s) to [Rosellpc/PostgreSQL](https://github.com/Rosellpc/PostgreSQL)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/MemelyRest](https://github.com/Rosellpc/MemelyRest)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/MemelyRest](https://github.com/Rosellpc/MemelyRest)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/MemelyRest](https://github.com/Rosellpc/MemelyRest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 1:17:00 PM
+Last Updated: Friday, May 1st, 2026, 1:52:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
