@@ -59,15 +59,15 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 
 ## Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Rosellpc/AirbnbFancy](https://github.com/Rosellpc/AirbnbFancy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
+1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
+2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
+3. ⬆️ Pushed undefined commit(s) to [Rosellpc/AirbnbFancy](https://github.com/Rosellpc/AirbnbFancy)<br>
 4. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
 5. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 24th, 2026, 4:02:19 PM
+Last Updated: Friday, September 25th, 2026, 2:14:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
