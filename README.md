@@ -59,15 +59,15 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 
 ## Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/AirbnbFancy](https://github.com/Rosellpc/AirbnbFancy)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/boleli](https://github.com/Rosellpc/boleli)<br>
+1. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
+2. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
+3. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
+4. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
+5. ⬆️ Pushed undefined commit(s) to [Rosellpc/AirbnbFancy](https://github.com/Rosellpc/AirbnbFancy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 27th, 2026, 2:14:39 AM
+Last Updated: Sunday, September 27th, 2026, 3:55:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
