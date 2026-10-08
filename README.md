@@ -59,15 +59,15 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 
 ## Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Focus v0.1.1 ? Temporizador y dise?o integrado](https://github.com/Rosellpc/Focus/releases/tag/v0.1.1) in [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
-2. ✌️ Released [Focus v0.1.0 — Windows 11](https://github.com/Rosellpc/Focus/releases/tag/v0.1.0) in [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
+1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
+2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
+3. ⬆️ Pushed undefined commit(s) to [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
+4. ⬆️ Pushed undefined commit(s) to [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
+5. ⬆️ Pushed undefined commit(s) to [Rosellpc/Focus](https://github.com/Rosellpc/Focus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 8th, 2026, 3:19:53 AM
+Last Updated: Thursday, October 8th, 2026, 6:05:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
