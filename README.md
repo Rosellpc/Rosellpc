@@ -61,13 +61,13 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Lifegram](https://github.com/Rosellpc/Lifegram)<br>
 2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/Lifegram](https://github.com/Rosellpc/Lifegram)<br>
+3. ⬆️ Pushed undefined commit(s) to [Rosellpc/Lifegram](https://github.com/Rosellpc/Lifegram)<br>
+4. ⬆️ Pushed undefined commit(s) to [Rosellpc/DjangoREST](https://github.com/Rosellpc/DjangoREST)<br>
+5. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 15th, 2026, 2:08:56 AM
+Last Updated: Thursday, October 15th, 2026, 3:52:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
