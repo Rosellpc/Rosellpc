@@ -60,14 +60,14 @@ I enjoy building **clean, reproducible, and scalable data solutions**, combining
 ## Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/Lifegram](https://github.com/Rosellpc/Lifegram)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/Lifegram](https://github.com/Rosellpc/Lifegram)<br>
+2. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
+3. ⬆️ Pushed undefined commit(s) to [Rosellpc/MVP-REST](https://github.com/Rosellpc/MVP-REST)<br>
+4. ⬆️ Pushed undefined commit(s) to [Rosellpc/DjangoREST](https://github.com/Rosellpc/DjangoREST)<br>
+5. ⬆️ Pushed undefined commit(s) to [Rosellpc/DjangoREST](https://github.com/Rosellpc/DjangoREST)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 16th, 2026, 1:59:33 AM
+Last Updated: Friday, October 16th, 2026, 3:41:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
