@@ -1,86 +1,95 @@
-# Rosell Puma
-### Data Scientist · Analytics · Software
+# Hola, soy Rosell Puma
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![Data Science](https://img.shields.io/badge/Data%20Science-333333?style=flat&logo=databricks)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333333?style=flat&logo=scikitlearn)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visualstudiocode)
+**Desarrollador Full Stack · Cusco, Perú · Interés en oportunidades de empleo remoto**
 
----
+Desarrollo aplicaciones para negocios y herramientas de uso diario con **React, TypeScript y Python**. Me interesa conectar una experiencia clara con una lógica que cuide los permisos, la persistencia y la integridad de los datos.
 
-## Profile
-Data Scientist with a strong foundation in **data analysis, statistics, and software development**.  
-Focused on turning complex datasets into **clear insights, predictive models, and business value**.
+[Portafolio](https://roseell.com) · [LinkedIn](https://www.linkedin.com/in/rosellpc) · [Escríbeme](mailto:rossellpc@gmail.com)
 
-I enjoy building **clean, reproducible, and scalable data solutions**, combining analytical thinking with engineering principles.
+## Proyectos destacados
 
----
+### RestaurantOS — Gestión gastronómica
 
-## Skills
+Una aplicación que conecta el menú y los pedidos con Cocina, Barra, inventario y costeo de recetas.
 
-**Data & Analytics**
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Feature Engineering
-- Data Visualization
+- **Mi aporte:** desarrollo e integración del frontend y backend, modelado de datos y flujos del cliente y del personal.
+- **Decisiones:** permisos por rol, operaciones transaccionales para stock y cálculos decimales para importes.
+- **Stack:** React, TypeScript, Django REST Framework y PostgreSQL en Supabase.
+- **Estado:** MVP en entorno local; la modalidad SaaS forma parte de su evolución prevista.
 
-**Machine Learning**
-- Regression & Classification
-- Supervised / Unsupervised Learning
-- Model Evaluation & Optimization
+[Ver caso de estudio](https://roseell.com/proyectos/restaurantos/)
 
-**Programming**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Git & GitHub
+### Focus — Hábitos y gestión del tiempo
 
----
+Aplicación para Windows y Android con registro de hábitos, temporizador y reportes, con persistencia local y uso sin conexión.
 
-## Tech Stack
+- **Mi aporte:** interfaz con React y TypeScript e integración con Tauri, Rust y SQLite, incluidos los flujos de respaldo y restauración.
+- **Decisiones:** conservar el historial y restaurar los datos mediante operaciones transaccionales.
+- **Evidencia:** código e instaladores disponibles en el repositorio.
 
-| Area | Tools |
-|-----|------|
-| Languages | Python, SQL |
-| Libraries | Pandas, NumPy, Scikit-learn |
-| Visualization | Matplotlib, Seaborn |
-| Tools | Jupyter, VS Code |
-| Version Control | Git, GitHub |
+[Código](https://github.com/Rosellpc/Focus) · [Descargas](https://github.com/Rosellpc/Focus/releases) · [Caso de estudio](https://roseell.com/proyectos/focus/)
 
----
+### Memely News — Investigación de noticias con IA
 
-## Projects
-- **Sales Data Analysis** — Identified trends and insights from transactional datasets.
-- **Order & Inventory Analytics System** — Data-driven approach for operational optimization.
-- **EDA Dashboards** — Clear storytelling for technical and non-technical audiences.
+Búsqueda de noticias y consultas con IA desde una interfaz web o una CLI, con fuentes consultables y control de uso.
 
----
+- **Mi aporte:** API con FastAPI, interfaz web, CLI e integración de fuentes y proveedores de IA.
+- **Decisiones:** lógica compartida entre web y CLI, límites de uso mediante Redis y credenciales en el servidor.
+- **Stack:** Python, FastAPI, JavaScript, Redis, OpenAI y Gemini.
 
-## Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-2. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-3. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-4. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-5. ⬆️ Pushed undefined commit(s) to [Rosellpc/Rosell](https://github.com/Rosellpc/Rosell)<br>
-<!--RECENT_ACTIVITY:end-->
+[Demo](https://memely-news.vercel.app/) · [Caso de estudio](https://roseell.com/proyectos/memely-news/)
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 18th, 2026, 3:00:11 PM
-<!--RECENT_ACTIVITY:last_update_end-->
----
+## Otras aplicaciones
 
-## Focus
-- Data-driven decision making  
-- Machine learning in real-world scenarios  
-- Clean code & reproducible analysis  
+| Proyecto | Qué puedes explorar | Enlace |
+| --- | --- | --- |
+| Airbnb Fancy | Alojamientos, filtros y favoritos con React y TypeScript. Autenticación simulada. | [Demo](https://airbnb-fancy.vercel.app/) |
+| Boleli | Catálogo de tecnología y estilo de vida con Next.js y TypeScript. | [Demo](https://boleli-m67g.vercel.app/) |
+| Lifegram | Perfiles, publicaciones y mensajes con Next.js y Supabase. | [Demo](https://lifegram-swart.vercel.app/) |
+| StreamFlix | Catálogo, perfiles y listas personales con Next.js y Django REST. | [Demo](https://django-rest-sand.vercel.app/) |
 
----
+## Tecnologías
 
-## Contact
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/RossTwilight)
+| Área | Herramientas |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, HTML, CSS y Tailwind CSS |
+| Backend | Python, FastAPI, Django, Django REST Framework, Node.js y APIs REST |
+| Datos e infraestructura | PostgreSQL, MySQL, Supabase, AWS, Git, GitHub y CI/CD |
+| Aplicaciones locales | Tauri, Rust y SQLite, utilizados en Focus |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rosellpc)
+## Formación
 
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail)](rosell.pc08@gmail.com)
+Formación en **Platzi** en desarrollo frontend con React, backend con Python, diseño web, inglés y negocio digital. Mi aprendizaje se refleja en los proyectos y sus decisiones técnicas.
+
+<details>
+<summary>Ver formación y certificados</summary>
+
+### Desarrollo y diseño web — Platzi
+
+- Desarrollo Frontend con React.js — ruta aprobada, 2026.
+- Desarrollo Backend con Python — ruta aprobada, 2026.
+- Diseño y Desarrollo Frontend — ruta aprobada, 2026.
+- HTML y CSS a profundidad — programa de formación, 2026.
+
+### Inglés — Platzi English Academy
+
+- Basic English A1 y A2 — 2026.
+- Intermediate English B1 y Upper Intermediate English B2 — 2026.
+- Programa de formación de Platzi English Academy — 2023.
+
+### Marketing y negocio digital
+
+- Escuela de Marketing Digital — Platzi, 2021.
+- Escuela de Publicidad Digital — Platzi, 2022.
+- Escuela de E-commerce y Negocios Digitales — Platzi, 2023.
+- Máster en Marketing Digital y Analítica Web — certificado de finalización de formación complementaria, 950 horas, 2020.
+
+[Consultar los certificados en mi portafolio](https://roseell.com/certificados/)
+
+</details>
+
+## Hablemos
+
+Busco sumarme a un equipo donde pueda aportar en el desarrollo de aplicaciones web, trabajar en problemas de producto y seguir creciendo como desarrollador.
+
+**Contacto:** [rossellpc@gmail.com](mailto:rossellpc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rosellpc)
