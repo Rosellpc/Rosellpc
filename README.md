@@ -1,14 +1,14 @@
-# Hola, soy Rosell Puma
+# Hola, soy Rosell
 
-**Desarrollador Full Stack · Cusco, Perú · Interés en oportunidades de empleo remoto**
+**Desarrollador Full Stack · Perú ·**
 
-Desarrollo aplicaciones para negocios y herramientas de uso diario con **React, TypeScript y Python**. Me interesa conectar una experiencia clara con una lógica que cuide los permisos, la persistencia y la integridad de los datos.
+Desarrollo aplicaciones para negocios y herramientas de uso diario con **React, TypeScript y Python PostgreSQL, SQL, DjangoREST**. Me interesa conectar una experiencia clara con una lógica que cuide los permisos, la persistencia y la integridad de los datos.
 
 [Portafolio](https://roseell.com) · [LinkedIn](https://www.linkedin.com/in/rosellpc) · [Escríbeme](mailto:rossellpc@gmail.com)
 
 ## Proyectos destacados
 
-### RestaurantOS — Gestión gastronómica
+### RestaurantOS — Gestión POS
 
 Una aplicación que conecta el menú y los pedidos con Cocina, Barra, inventario y costeo de recetas.
 
@@ -90,6 +90,6 @@ Formación en **Platzi** en desarrollo frontend con React, backend con Python, d
 
 ## Hablemos
 
-Busco sumarme a un equipo donde pueda aportar en el desarrollo de aplicaciones web, trabajar en problemas de producto y seguir creciendo como desarrollador.
+Busco nuevos retos y aportar en el desarrollo de aplicaciones web, trabajar en problemas de producto y seguir creciendo como desarrollador.
 
 **Contacto:** [rossellpc@gmail.com](mailto:rossellpc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rosellpc)
